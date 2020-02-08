@@ -1,5 +1,5 @@
 # yangu.dev
-HTML for yangu.dev
+This is the git repository for yangu.dev.
 
 yangu.dev is the home of deesco's side project activity. This includes:
 1. Web access to the deescotech Media Server,
